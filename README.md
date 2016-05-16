@@ -7,6 +7,6 @@ The main objective of the MTE 220 project is to understand the practical aspects
 
 # Image of the finished robot
 
-![alt tag] (https://raw.githubusercontent.com/sarimzafar/Line-following-Robot/IMG_20151202_153731.jpg)
+![alt tag] (https://raw.githubusercontent.com/sarimzafar/Line-following-Robot/master/IMG_20151202_153731.jpg)
 
 
