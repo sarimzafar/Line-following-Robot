@@ -12,7 +12,7 @@ The main objective of the MTE 220 project is to understand the practical aspects
 
 # Learning Achievements
 
-This project helped develop crucial hardware knowledge such as techniques like soldering and debugging a faulty PCB board. It helped solidify the application of circuit designs, application of sensors and most importantly cultivated a strong appreciation for the best-practices involved with designing and building a robot. 
+This project helped develop crucial hardware techniques such as soldering and debugging a faulty PCB board. It helped understand the how-tos of cicuit design, practical application of sensors and most importantly cultivated a strong appreciation for the best-practices involved with designing and building a robot. 
 
 # Video of the final robot
 
