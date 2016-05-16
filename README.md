@@ -16,4 +16,4 @@ This project helped develop crucial hardware knowledge such as techniques like s
 
 # Video of the final robot
 
-
+![Demo](https://raw.githubusercontent.com/sarimzafar/Line-following-Robot/master/Line-following.gif)
