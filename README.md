@@ -1,5 +1,6 @@
 # Line following Robot
-This repository contains photos/videos of the line following robot build during MTE 220 labs
+This repository contains details and photos/videos of the line following robot build during MTE 220 labs. This repo is only to document the finished work without providing details which could lead to possible plagiarism. 
+The project is rated as one of the most intensive projects of the Mechatronics curriculum.
 
 # Objective of the Project
 
@@ -8,5 +9,11 @@ The main objective of the MTE 220 project is to understand the practical aspects
 # Image of the finished robot
 
 ![alt tag] (https://raw.githubusercontent.com/sarimzafar/Line-following-Robot/master/IMG_20151202_153731.jpg)
+
+# Learning Achievements
+
+This project helped develop crucial hardware knowledge such as techniques like soldering and debugging a faulty PCB board. It helped solidify the application of circuit designs, application of sensors and most importantly cultivated a strong appreciation for the best-practices involved with designing and building a robot. 
+
+# Video of the final robot
 
 
